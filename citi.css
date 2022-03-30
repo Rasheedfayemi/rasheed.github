@@ -1,0 +1,24 @@
+body
+{
+font-family:berlin sans FB;
+}
+h3
+{
+color:red;
+}
+kbd
+{
+border-radius:2px;
+padding:2px;
+border:1px solid green;
+}
+button
+{
+border-radius:2px;
+padding:2px;
+border:1px solid green;
+width:90px;
+height:100px;
+background-color:white;
+color:red;
+}
